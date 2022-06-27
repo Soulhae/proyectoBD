@@ -10,7 +10,7 @@ app.listen(port, () => {
 });
 
 async function Insertar(){
-  const result = InsertarRegistro("conquistar al dragon" ,"magica","ser nivel 5")
+  const result = InsertarRegistro("El guardián de la furia" ,"Caza","Mata 3 veces al guardian Ur'nil y consume su alma")
 }
 
 Insertar();
