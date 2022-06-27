@@ -10,7 +10,7 @@ app.listen(port, () => {
 });
 
 async function Insertar(){
-  const result = InsertarRegistro("El guardián de la furia" ,"Caza","Mata 3 veces al guardian Ur'nil y consume su alma")
+  const result = InsertarRegistro("El guardian de la furia" ,"Caza","Mata 3 veces al guardian Urnil y consume su alma")
 }
 
 Insertar();
