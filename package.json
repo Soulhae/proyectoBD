@@ -1,0 +1,28 @@
+{
+  "name": "tecnofast_elina_connection",
+  "version": "1.0.0",
+  "description": "TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://tecnofastchile@dev.azure.com/tecnofastchile/Tecnofast%20Lock/_git/Tecnofast_Elina_Connection"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "applicationinsights": "^2.1.8",
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "morgan": "^1.10.0",
+    "mssql": "^7.2.1",
+    "mysql": "^2.18.1",
+    "node-cron": "^3.0.0",
+    "nodemon": "^2.0.13",
+    "request": "^2.88.2"
+  }
+}
